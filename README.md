@@ -22,12 +22,6 @@ I'm a passionate software developer with a strong interest in building innovativ
 
 ---
 
-### 📊 My GitHub Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=geekjag&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📫 Let's Connect
 
 [![YouTube](https://img.shields.io/badge/YouTube-0077B5?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@geekjag/)
